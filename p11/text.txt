@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 first line
 second line
 third line 
+=======
+first line 
+>>>>>>> parent of fec53f3 (2nd commit)
