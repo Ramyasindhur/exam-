@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ihii
 helloo 
+=======
+hii
+>>>>>>> 025c0b6 (commit done)
