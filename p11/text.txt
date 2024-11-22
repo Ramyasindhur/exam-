@@ -1,11 +1,3 @@
-<<<<<<< HEAD
 first line
-<<<<<<< HEAD
 second line
 third line 
-=======
-first line 
->>>>>>> parent of fec53f3 (2nd commit)
-=======
-second line 
->>>>>>> parent of 0f08a3f (3rd commit)
